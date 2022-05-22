@@ -25,32 +25,16 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dangvietanh.nguyen@femto-st.fr, ndvanh1994@gmail.com
-  phone: 888 888 88 88
+  email: dangvietanh.nguyen@femto-st.fr
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 26 rue de l'Epitaphe
+    city: Besançon
+    postcode: '25000'
+    country: France
+    country_code: FR
   coordinates:
     latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    longitude: '-122.1697''
 
 design:
   columns: '2'
