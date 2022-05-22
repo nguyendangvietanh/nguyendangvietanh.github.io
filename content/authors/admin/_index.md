@@ -14,7 +14,7 @@ organizations:
     url: https://www.femto-st.fr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include continuum robotics, smart systems and devices.
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Automatic
       institution: University Bourgogne Franche-Comté
-      year: 2012
+      year: in progess
     - course: MEng in Smart Systems & Devices
       institution: Grenoble INP - UGA
       year: 2018
