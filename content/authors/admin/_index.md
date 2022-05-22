@@ -27,6 +27,7 @@ education:
   courses:
     - course: PhD in Automatic
       institution: University Bourgogne Franche-Comté
+      url: https://www.ubfc.fr/en/
       year: in progess
     - course: MEng in Smart Systems & Devices
       institution: Grenoble INP - UGA
