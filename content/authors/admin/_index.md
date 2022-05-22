@@ -43,15 +43,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=8xOEwVEAAAAJ
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Dang-Viet-Anh-Nguyen-2
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-7988-8457
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dva-nguyen
