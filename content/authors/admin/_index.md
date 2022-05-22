@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Automatic
+      institution: University Bourgogne Franche-Comté
       year: 2012
     - course: MEng in Smart Systems & Devices
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Grenoble INP - UGA
+      year: 2018
+    #- course: BSc in Artificial Intelligence
+    # institution: Massachusetts Institute of Technology
+    # year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dang-Viet-Anh Nguyen is currently a Ph.D. candidate and Research Engineer at FEMTO-ST Institute. His research interests are modeling, design, and control of continuum robotics, especially for medical interventions. Bisides, He has over 4 years experiences of working on different professional projects (both academic and industrial) with different systems including: smart water treatment (2017), helicopter (2017-2018), energy distribution network (2018), surgical robot (2018-2022).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With an open mind, he prefer an international environment for working together with people from different backgrounds.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
