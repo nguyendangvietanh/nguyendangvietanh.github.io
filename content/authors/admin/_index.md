@@ -70,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-Dang-Viet-Anh Nguyen is currently a Ph.D. candidate and Research Engineer at FEMTO-ST Institute. His research interests are modeling, design, and control of continuum robotics, especially for medical interventions. Bisides, he has over 4 years experiences of working on different professional projects (both academic and industrial) with different systems including: smart water treatment (2017), helicopter (2017-2018), energy distribution network (2018), surgical robot (2018-2022).
+Dang-Viet-Anh Nguyen is currently a Ph.D. candidate and Research Engineer at FEMTO-ST Institute. His research interests are modeling, design, and control of continuum robotics, especially for medical interventions. Bisides, he has over 4 years experiences of working on different professional projects (both academic and industrial) with many smart systems including: smart water treatment (2017), helicopter (2017-2018), energy distribution network (2018), surgical robot (2018-2022).
 
 With an open mind, he prefer an international environment for working together with people from different backgrounds.
 
