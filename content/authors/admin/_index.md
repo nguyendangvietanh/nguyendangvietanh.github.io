@@ -74,4 +74,4 @@ Dang-Viet-Anh Nguyen is currently a Ph.D. candidate and Research Engineer at FEM
 
 He obtained his MEng degree (2018) of Grenoble INP-UGA (France) with the Eiffel Excellence scholarship from the Ministry of Europe and Foreign Affairs of France. He is now a PhD student of University Bourgogne Franche-Comté.
 
-{{< icon name="download" pack="fas" >}} Download my {{< hyperlink "https://dvanguyen.netlify.app/uploads/resume.pdf" "newtab" >}}resumé{{< /hyperlink >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< hyperlink [CVPage](https://dvanguyen.netlify.app/uploads/resume.pdf) "newtab" >}}resumé{{< /hyperlink >}}.
