@@ -18,16 +18,15 @@ bio: My research interests include continuum robotics, smart systems and devices
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Automation
+  - Robotics
+  - Mechatronics
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Automatic
       institution: University Bourgogne Franche-Comté
-      url: https://www.ubfc.fr/en/
       year: in progess
     - course: MEng in Smart Systems & Devices
       institution: Grenoble INP - UGA
@@ -49,13 +48,13 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=8xOEwVEAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/dva-nguyen
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
