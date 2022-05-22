@@ -33,8 +33,8 @@ content:
     country: France
     country_code: FR
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697''
+    latitude: '47.2513'
+    longitude: '5.9936'
 
 design:
   columns: '2'
