@@ -28,7 +28,13 @@ content:
     - name: All
       tag: '*'
     - name: Deep Learning
-      tag: Deep Learning
+      tag: Surgical Robot
+    - name: Deep Learning
+      tag: Power distribution network
+    - name: Deep Learning
+      tag: Helicopter system
+    - name: Deep Learning
+      tag: Smart Water Filter
     - name: Other
       tag: Demo
 
