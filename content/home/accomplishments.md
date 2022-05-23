@@ -36,7 +36,7 @@ item:
     date_start: '2018-05-25'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
-    organization_url: https://courses.edx.org/
+    organization_url: https://edx.org/
     title: Manufacturing Process Control: Variation Modeling and Control
     url: ''
   - certificate_url: https://www.datacamp.com
