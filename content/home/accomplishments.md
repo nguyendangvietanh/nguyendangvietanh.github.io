@@ -33,12 +33,12 @@ item:
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: '2018-05-25'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    title: Manufacturing Process Control: Variation Modeling and Control
+    url: https://courses.edx.org/certificates/0b09bda4b92049e6828c9534a6af1390
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
