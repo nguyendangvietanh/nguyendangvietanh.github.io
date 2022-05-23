@@ -28,7 +28,7 @@ education:
     - course: PhD in Automatic
       institution: University Bourgogne Franche-Comté
       year: in progess
-    - course: MEng in Smart Systems & Devices
+    - course: MEng in Electronics, Informatics and Systems
       institution: Grenoble INP - UGA
       year: 2018
     #- course: BSc in Artificial Intelligence
