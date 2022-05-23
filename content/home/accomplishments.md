@@ -38,7 +38,7 @@ item:
     organization: edX
     organization_url: https://courses.edx.org/
     title: Manufacturing Process Control: Variation Modeling and Control
-    url: https://courses.edx.org/certificates/0b09bda4b92049e6828c9534a6af1390
+    url: ''
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
