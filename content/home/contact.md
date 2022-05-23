@@ -32,7 +32,7 @@ content:
     postcode: '25000'
     country: France
     country_code: FR
-    directions: Enter ENSMM Building
+  directions: Enter ENSMM Building
   coordinates:
     latitude: '47.2513'
     longitude: '5.9936'
