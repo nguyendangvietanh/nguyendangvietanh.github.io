@@ -37,7 +37,7 @@ item:
     description: ''
     organization: edX
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    title: Manufacturing Process Control: Variation Modeling and Control
     url: ''
 
 design:
