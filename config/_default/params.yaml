@@ -91,9 +91,14 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 3
-    api_key: '398e65fc173840349de45ba924abf852'
+    provider: 'mapnik'
+    api_key: ''
     zoom: 15
+
+#  map:
+#    provider: 3
+#    api_key: '398e65fc173840349de45ba924abf852'
+#    zoom: 15
 
 # Extensions
 
