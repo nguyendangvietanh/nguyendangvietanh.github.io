@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org/account/accomplishments/verify/39DB5G22RZAS
     date_end: ''
-    date_start: '2022-02-18'
+    date_start: Feb 2022
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: https://courses.edx.org/certificates/0b09bda4b92049e6828c9534a6af1390
     date_end: ''
-    date_start: '2018-05-25'
+    date_start: May 2018
     description: ''
     organization: edX
     organization_url: https://www.edx.org
