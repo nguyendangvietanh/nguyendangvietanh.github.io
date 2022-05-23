@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Machine Learning (Stanford University)
+    title: Machine Learning
     url: ''
   - certificate_url: https://courses.edx.org/certificates/0b09bda4b92049e6828c9534a6af1390
     date_end: ''
@@ -37,7 +37,7 @@ item:
     description: ''
     organization: edX
     organization_url: https://www.edx.org
-    title: Manufacturing Process Control: Variation Modeling and Control (MIT - edX)
+    title: Manufacturing Process Control: Variation Modeling and Control
     url: ''
 
 design:
