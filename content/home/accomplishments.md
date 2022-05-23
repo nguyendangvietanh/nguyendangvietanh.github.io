@@ -31,7 +31,7 @@ item:
     organization_url: https://www.coursera.org
     title: Machine Learning (Stanford University)
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://courses.edx.org/certificates/0b09bda4b92049e6828c9534a6af1390
     date_end: ''
     date_start: '2018-05-25'
     description: ''
