@@ -31,6 +31,14 @@ item:
     organization_url: https://www.coursera.org
     title: Machine Learning
     url: ''
+  - certificate_url: https://courses.edx.org/certificates/0b09bda4b92049e6828c9534a6af1390
+    date_end: ''
+    date_start: '2021-01-01'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: edX
+    organization_url: https://www.edx.org
+    title: Blockchain Fundamentals
+    url: ''
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
