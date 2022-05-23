@@ -27,13 +27,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
+    - name: Surgical Robot
       tag: Surgical Robot
-    - name: Deep Learning
+    - name: Power distribution network
       tag: Power distribution network
-    - name: Deep Learning
+    - name: Helicopter system
       tag: Helicopter system
-    - name: Deep Learning
+    - name: Smart Water Filter
       tag: Smart Water Filter
     - name: Other
       tag: Demo
