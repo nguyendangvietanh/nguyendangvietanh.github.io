@@ -31,14 +31,6 @@ item:
     organization_url: https://www.coursera.org
     title: Machine Learning
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2018-05-25'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Manufacturing Process Control: Variation Modeling and Control
-    url: ''
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
