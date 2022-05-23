@@ -35,8 +35,8 @@ content:
       tag: Helicopter system
     - name: Smart Water Filter
       tag: Smart Water Filter
-    - name: Other
-      tag: Demo
+    # - name: Other
+    # tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
