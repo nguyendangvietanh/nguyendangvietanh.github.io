@@ -15,7 +15,7 @@ main:
     weight: 60
   - name: Awards
     url: '#post'
-    weight: 75
+    weight: 77
   - name: Social
     url: '#post'
     weight: 80
