@@ -73,6 +73,16 @@ experience:
         * Modelization and Control (PID, LQR, MPC) of the CE150 helicopter system
         * Team leader.
 
+  - title: Industrial Engineering Intern
+    company: LAVI - Distributeur Officiel d'Accessoires VDL
+    company_url: ''
+    company_logo: logo-LAVI-vdl
+    location: Valence, France
+    date_start: '2017-01-01'
+    date_end: '2017-07-01'
+    description: |2-
+        Industrial Project - A mini smart water treatment station for motorhomes (EZA Water)
+
 design:
   columns: '2'
 ---
