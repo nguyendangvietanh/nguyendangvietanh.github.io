@@ -81,7 +81,20 @@ experience:
     date_start: '2017-01-01'
     date_end: '2017-07-01'
     description: |2-
-        Industrial Project - A mini smart water treatment station for motorhomes ([EZA Water](https://dvanguyen.netlify.app/#projects))
+        Industrial Project - A mini smart water treatment station for motorhomes (see [EZA Water Project](https://dvanguyen.netlify.app/#projects))
+        
+  - title: Industrial Engineering Intern
+    company: Nhat Tinh
+    company_url: 'http://www.nhattinh.com.vn/hinh-anh/'
+    company_logo: logo-NhatTinh
+    location: HCM City, Vietnam
+    date_start: '2015-07-01'
+    date_end: '2015-08-01'
+    description: |2-
+        Responsibilities include:
+        * Mechanical drawing with SolidWorks
+        * Electrical panel & mechanical assembly.
+        [Internship Certificate](https://github.com/nguyendangvietanh/nguyendangvietanh.github.io/blob/main/static/uploads/NhatTinh.jfif)
 
 design:
   columns: '2'
