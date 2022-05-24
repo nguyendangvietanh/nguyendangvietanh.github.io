@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - coauthors
     tag: ''
     category: ''
     publication_type: ''
