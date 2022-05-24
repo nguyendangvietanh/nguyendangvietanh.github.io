@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 55
 
-title: Projects
+title: Co-Authors
 subtitle: ''
 
 content:
@@ -24,17 +24,6 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Surgical Robot
-      tag: Surgical Robot
-    - name: Power Distribution Network
-      tag: Power Distribution Network
-    - name: Helicopter System
-      tag: Helicopter System
-    - name: Smart Water Filter
-      tag: Smart Water Filter
     # - name: Other
     # tag: Demo
 
