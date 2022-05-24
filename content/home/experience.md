@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Engineer
     company: FEMTO-ST Institute
-    company_url: https://www.femto-st.fr/en
+    company_url: ''
     company_logo: logo-femto-st
     location: Besançon, France
     date_start: '2018-10-01'
@@ -49,7 +49,7 @@ experience:
     
   - title: Research Engineer
     company: Laboratoire de Conception et d'Intégration des Systèmes
-    company_url: https://lcis.grenoble-inp.fr/
+    company_url: ''
     company_logo: logo-LCIS
     location: Valence, France
     date_start: '2018-02-01'
@@ -63,7 +63,7 @@ experience:
         
   - title: Project Intern
     company: Grenoble INP - UGA
-    company_url: https://www.grenoble-inp.fr/
+    company_url: ''
     company_logo: logo-grenobleinp
     location: Valence, France
     date_start: '2017-07-01'
