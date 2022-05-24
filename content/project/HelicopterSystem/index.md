@@ -34,4 +34,4 @@ The project focused on modeling and closed-loop controls (PID, LQR, MPC) of a la
 
 This project is funded by [Grenoble INP-UGA](https://www.grenoble-inp.fr/en) at the [Esynov platform](https://www.esynov.fr/) under the supervision of Professor (Associate) [Ionela Prodan](https://scholar.google.com/citations?user=OSiQW5cAAAAJ&hl=en).
 
-As member of the innovation project, Mr. Nguyen started his work as a research intern in the summer of 2017, then became the team leader of this project (Sep-Dec, 2017).
+As member of the innovation project, Mr. Nguyen started his work as a research intern in the summer of 2017, then became the team leader of this project (Sep - Dec, 2017).
