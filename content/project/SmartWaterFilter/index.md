@@ -18,7 +18,7 @@ links:
     name: Link
     url: https://lavi.fr/upload/[FR][2018][EXPORT]%20Catalogue%20LAVI%20-%20OFFGRID%20FREEDOM.pdf#page=27
 url_code: ''
-url_pdf: https://dvanguyen.netlify.app/uploads/resume.pdf
+url_pdf: https://dvanguyen.netlify.app/uploads/LAVI.pdf
 url_slides: ''
 url_video: https://www.youtube.com/watch?v=dvVyUaHbk2k
 
