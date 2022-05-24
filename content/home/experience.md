@@ -42,7 +42,7 @@ experience:
     company: SUPERMICROTECH-ENSMM
     company_url: https://www.supmicrotech.fr/en
     company_logo: logo-supermicrotech-ENSMM
-    location: California
+    location: Besançon, France
     date_start: '2019-09-01'
     date_end: '2021-09-30'
     description: Control theory (64h/year, Level: L3 / undergrade)
