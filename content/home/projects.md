@@ -29,10 +29,10 @@ content:
       tag: '*'
     - name: Surgical Robot
       tag: Surgical Robot
-    - name: Power distribution network
-      tag: Power distribution network
-    - name: Helicopter system
-      tag: Helicopter system
+    - name: Power Distribution Network
+      tag: Power Distribution Network
+    - name: Helicopter System
+      tag: Helicopter System
     - name: Smart Water Filter
       tag: Smart Water Filter
     # - name: Other
