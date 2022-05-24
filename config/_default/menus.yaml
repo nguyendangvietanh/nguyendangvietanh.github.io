@@ -14,8 +14,8 @@ main:
     url: '#featured'
     weight: 60
   - name: Awards
-    url: '#post'
-    weight: 77
+    url: '#accomplishments'
+    weight: 75
   - name: Social
     url: '#post'
     weight: 80
