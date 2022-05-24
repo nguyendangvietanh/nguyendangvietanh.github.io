@@ -33,6 +33,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: Card
-  columns: '5'
+  view: Showcase
+  columns: '1'
 ---
