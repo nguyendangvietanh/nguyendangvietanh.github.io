@@ -1,6 +1,6 @@
 ---
 title: MicroRobot-assisted Cholesteatoma Surgery (µRoCS)
-summary: This project is funded by ANR (Agence Nationale de la Recherche) with the partners including CHRUB (Centre Hospitalier Régional Universitaire de Besançon), INSERM (Institut National de la Santé et de la Recherche Médicale), FEMTO-ST (Franche-Comté Électronique Mécanique Thermique et Optique - Sciences et Technologies), and ISIR (Institut des Systèmes Intelligents et de Robotique). The project coordinator is Professor Laurent Tavernier, head of ENT Service at CHRUB.
+summary: ''
 tags:
   - Surgical Robot
 date: ''
@@ -15,7 +15,7 @@ image:
 links:
   - icon: folder-open
     icon_pack: fab
-    name: µRoCS Project Link
+    name: Link
     url: https://anr.fr/Project-ANR-17-CE19-0005
 url_code: ''
 url_pdf: ''
