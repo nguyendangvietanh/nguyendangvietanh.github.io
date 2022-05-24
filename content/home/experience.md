@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Engineer
-    company: GenCoin
-    company_url: ''
+    company: FEMTO-ST Institute
+    company_url: https://www.femto-st.fr/en
     company_logo: logo-femto-st
     location: Besançon, France
     date_start: '2018-10-01'
@@ -38,10 +38,10 @@ experience:
         * Control
         * Experimental Validation
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
+  - title: Teaching
+    company: SUPERMICROTECH-ENSMM
+    company_url: https://www.supmicrotech.fr/en
+    company_logo: logo-supermicrotech-ENSMM
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
