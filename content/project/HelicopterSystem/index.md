@@ -1,6 +1,6 @@
 ---
-title: Simulation, control design and experimental testing on a laboratory helicopter system (CE150)
-summary: 'Esynov 2017'
+title: Simulation, control & experimental testing on a helicopter system (CE150)
+summary: 'Esynov (2017)'
 tags:
   - Helicopter System
 date: ''
