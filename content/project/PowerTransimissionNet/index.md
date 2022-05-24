@@ -1,8 +1,8 @@
 ---
-title: MicroRobot-assisted Cholesteatoma Surgery (µRoCS)
+title: Power Balancing in a DC-meshed Microgrid Through Constrained Optimization
 summary: ''
 tags:
-  - Surgical Robot
+  - LCIS (2018)
 date: ''
 
 # Optional external URL for project (replaces project detail page).
