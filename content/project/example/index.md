@@ -13,11 +13,11 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: folder-open
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_µRoCS: 'https://anr.fr/Project-ANR-17-CE19-0005'
+    name: µRoCS Project
+    url: https://anr.fr/Project-ANR-17-CE19-0005
+url_µRoCS: https://anr.fr/Project-ANR-17-CE19-0005
 url_pdf: ''
 url_slides: ''
 url_video: https://www.youtube.com/watch?v=FF1jgDfN9B8&t=2s
