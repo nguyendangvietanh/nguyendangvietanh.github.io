@@ -81,7 +81,7 @@ experience:
     date_start: '2017-01-01'
     date_end: '2017-07-01'
     description: |2-
-        Industrial Project - A mini smart water treatment station for motorhomes (EZA Water)
+        Industrial Project - A mini smart water treatment station for motorhomes ([EZA Water](https://dvanguyen.netlify.app/#projects))
 
 design:
   columns: '2'
