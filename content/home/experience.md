@@ -48,7 +48,7 @@ experience:
     description: Automation and Control (64h/year, undergrade)
     
   - title: Research Engineer
-    company: FEMTO-ST Institute
+    company: Laboratoire de Conception et d'Intégration des Systèmes
     company_url: https://lcis.grenoble-inp.fr/
     company_logo: logo-LCIS
     location: Valence, France
@@ -60,6 +60,18 @@ experience:
         * Modelling of a power transmission network
         * Model Predictive Control
         * Simulation.
+        
+  - title: Innovation Project Intern
+    company: Grenoble INP - UGA
+    company_url: https://www.grenoble-inp.fr/
+    company_logo: logo-grenobleinp
+    location: Valence, France
+    date_start: '2017-07-01'
+    date_end: '2018-02-01'
+    description: |2-
+        Responsibilities include:
+        * Modelization and Control (PID, LQR, MPC) of the CE150 helicopter system
+        * Team leader.
 
 design:
   columns: '2'
