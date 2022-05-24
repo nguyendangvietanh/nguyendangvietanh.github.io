@@ -45,7 +45,7 @@ experience:
     location: Besançon, France
     date_start: '2019-09-01'
     date_end: '2021-09-30'
-    description: Control theory (64h/year, Level: L3 / undergrade)
+    description: Control theory (64h/year, undergrade)
 
 design:
   columns: '2'
