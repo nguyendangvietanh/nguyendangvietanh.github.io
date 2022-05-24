@@ -2,7 +2,7 @@
 title: MicroRobot-assisted Cholesteatoma Surgery (µRoCS)
 summary: ''
 tags:
-  - Surgical Robot
+  - Helicopter System
 date: ''
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ links:
   - icon: folder-open
     icon_pack: fab
     name: Link
-    url: https://anr.fr/Project-ANR-17-CE19-0005
+    url: (https://esisar.grenoble-inp.fr/fr/l-ecole/plateau-sacco-les-projets-d-innovation)
 url_code: ''
 url_pdf: ''
 url_slides: ''
