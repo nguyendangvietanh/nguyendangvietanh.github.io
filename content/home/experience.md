@@ -45,7 +45,21 @@ experience:
     location: Besançon, France
     date_start: '2019-09-01'
     date_end: '2021-09-30'
-    description: Control theory (64h/year, undergrade)
+    description: Automation and Control (64h/year, undergrade)
+    
+  - title: Research Engineer
+    company: FEMTO-ST Institute
+    company_url: https://lcis.grenoble-inp.fr/
+    company_logo: logo-LCIS
+    location: Valence, France
+    date_start: '2018-02-01'
+    date_end: '2018-07-01'
+    description: |2-
+        Graduation Project:
+        
+        * Modelling of a power transmission network
+        * Model Predictive Control
+        * Simulation.
 
 design:
   columns: '2'
