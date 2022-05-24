@@ -81,8 +81,11 @@ experience:
     date_start: '2017-01-01'
     date_end: '2017-07-01'
     description: |2-
-        Industrial Project - A mini smart water treatment station for motorhomes (see [EZA Water Project](https://dvanguyen.netlify.app/#projects))
-        
+        Industrial Project - A mini smart water treatment station for motorhomes (see [EZA Water Project](https://dvanguyen.netlify.app/#projects)):
+        * Design of a Printed Circuit Boards (PCB)
+        * Human Machine Interface (HMI) development
+        * Sensors and Signal processing with STM32.  
+        * 
   - title: Industrial Engineering Intern
     company: Nhat Tinh
     company_url: 'http://www.nhattinh.com.vn/hinh-anh/'
