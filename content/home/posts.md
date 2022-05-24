@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 600
+weight: 80
 
-title: Recent Posts
+title: Social Activities
 subtitle:
 
 content:
