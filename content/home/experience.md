@@ -30,7 +30,7 @@ experience:
     date_start: '2018-10-01'
     date_end: ''
     description: |2-
-        Hybrid Continuum Robot for Middle Ear Surgery (part of [µRoCS Project](https://dvanguyen.netlify.app/#projects)):
+        Hybrid Continuum Robot for Middle Ear Surgery (see [µRoCS Project](https://dvanguyen.netlify.app/#projects)):
         
         * Design
         * Modelling
