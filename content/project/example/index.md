@@ -2,14 +2,14 @@
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - Surgical Robot
 date: ''
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by DVA Nguyen
   focal_point: Smart
 
 links:
@@ -19,8 +19,8 @@ links:
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: https://anr.fr/Project-ANR-17-CE19-0005
+url_video: https://www.youtube.com/watch?v=FF1jgDfN9B8&t=2s
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
