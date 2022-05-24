@@ -17,9 +17,9 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
+url_µRoCS: 'https://anr.fr/Project-ANR-17-CE19-0005'
 url_pdf: ''
-url_slides: https://anr.fr/Project-ANR-17-CE19-0005
+url_slides: ''
 url_video: https://www.youtube.com/watch?v=FF1jgDfN9B8&t=2s
 
 # Slides (optional).
