@@ -6,7 +6,7 @@ tags:
 date: ''
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: https://anr.fr/Project-ANR-17-CE19-0005
 
 image:
   caption: Photo by DVA Nguyen
@@ -15,9 +15,9 @@ image:
 links:
   - icon: folder-open
     icon_pack: fab
-    name: µRoCS Project
+    name: µRoCS Project Link
     url: https://anr.fr/Project-ANR-17-CE19-0005
-url_µRoCS: https://anr.fr/Project-ANR-17-CE19-0005
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: https://www.youtube.com/watch?v=FF1jgDfN9B8&t=2s
@@ -27,7 +27,7 @@ url_video: https://www.youtube.com/watch?v=FF1jgDfN9B8&t=2s
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
