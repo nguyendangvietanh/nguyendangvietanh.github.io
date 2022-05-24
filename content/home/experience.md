@@ -90,11 +90,12 @@ experience:
     location: HCM City, Vietnam
     date_start: '2015-07-01'
     date_end: '2015-08-01'
-    description: |3-
+    description: |2-
         Responsibilities include:
         * Mechanical drawing with SolidWorks
         * Electrical panel & mechanical assembly.
-        [Internship Certificate](https://dvanguyen.netlify.app/uploads/NhatTinh.jfif)
+        
+        [Internship Certificate](https://dvanguyen.netlify.app/uploads/NhatTinh.pdf)
 
 design:
   columns: '2'
