@@ -16,7 +16,7 @@ links:
   - icon: folder-open
     icon_pack: fab
     name: Link
-    url: (https://esisar.grenoble-inp.fr/fr/l-ecole/plateau-sacco-les-projets-d-innovation)
+    url: https://esisar.grenoble-inp.fr/fr/l-ecole/plateau-sacco-les-projets-d-innovation
 url_code: ''
 url_pdf: ''
 url_slides: ''
