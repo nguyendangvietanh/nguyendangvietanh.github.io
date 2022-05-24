@@ -14,7 +14,7 @@ image:
 
 links:
   - icon: up-right-from-square
-    icon_pack: fab
+    icon_pack: fas
     name: Link
     url: https://anr.fr/Project-ANR-17-CE19-0005
 url_code: ''
