@@ -37,7 +37,8 @@ experience:
         * Prototype Fabrication
         * Control
         * Experimental Validation.
-
+  tags:
+    - Surgical Robot
 #  - title: Teaching
 #    company: SUPERMICROTECH-ENSMM
 #    company_url: https://www.supmicrotech.fr/en
