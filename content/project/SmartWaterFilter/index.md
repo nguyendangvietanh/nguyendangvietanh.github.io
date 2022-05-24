@@ -2,25 +2,30 @@
 title: MicroRobot-assisted Cholesteatoma Surgery (µRoCS)
 summary: ''
 tags:
-  - Surgical Robot
+  - Smart Water Filter
 date: ''
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by DVA Nguyen
+  caption: Photo by M. Nguyen's team
   focal_point: Smart
 
 links:
   - icon: folder-open
     icon_pack: fab
+    name: Poster
+    url: https://dvanguyen.netlify.app/uploads/resume.pdf
+links:
+  - icon: folder-open
+    icon_pack: fab
     name: Link
-    url: https://anr.fr/Project-ANR-17-CE19-0005
+    url: https://lavi.fr/upload/[FR][2018][EXPORT]%20Catalogue%20LAVI%20-%20OFFGRID%20FREEDOM.pdf#page=27
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: https://www.youtube.com/watch?v=FF1jgDfN9B8&t=2s
+url_video: https://www.youtube.com/watch?v=dvVyUaHbk2k
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
