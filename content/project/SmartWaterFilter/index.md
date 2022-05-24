@@ -1,5 +1,5 @@
 ---
-title: A mini smart water treatment station for motorhomes (EZA Water)
+title: Mini smart water treatment station for motorhomes (EZA Water)
 summary: 'LAVI - PI03 (2017)'
 tags:
   - Smart Water Filter
