@@ -38,14 +38,14 @@ experience:
         * Control
         * Experimental Validation.
 
-  - title: Teaching
-    company: SUPERMICROTECH-ENSMM
-    company_url: https://www.supmicrotech.fr/en
-    company_logo: logo-supermicrotech-ENSMM
-    location: Besançon, France
-    date_start: '2019-09-01'
-    date_end: '2021-09-30'
-    description: Automation and Control (64h/year, undergrade)
+#  - title: Teaching
+#    company: SUPERMICROTECH-ENSMM
+#    company_url: https://www.supmicrotech.fr/en
+#    company_logo: logo-supermicrotech-ENSMM
+#    location: Besançon, France
+#    date_start: '2019-09-01'
+#    date_end: '2021-09-30'
+#    description: Automation and Control (64h/year, undergrade)
     
   - title: Research Engineer
     company: Laboratoire de Conception et d'Intégration des Systèmes
