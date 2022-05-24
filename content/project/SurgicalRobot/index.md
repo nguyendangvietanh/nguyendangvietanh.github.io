@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: folder-open
+  - icon: up-right-from-square
     icon_pack: fab
     name: Link
     url: https://anr.fr/Project-ANR-17-CE19-0005
