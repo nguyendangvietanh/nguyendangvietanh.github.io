@@ -67,7 +67,7 @@ experience:
     company_logo: logo-grenobleinp
     location: Valence, France
     date_start: '2017-07-01'
-    date_end: '2018-02-01'
+    date_end: '2018-12-01'
     description: |2-
         Responsibilities include:
         * Modelization and Control (PID, LQR, MPC) of the CE150 helicopter system
