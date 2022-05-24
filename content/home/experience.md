@@ -73,7 +73,7 @@ experience:
         * Modelization and Control (PID, LQR, MPC) of the CE150 helicopter system
         * Team leader.
 
-  - title: Industrial Engineering Intern
+  - title: Embedded System Engineer - Industrial Project
     company: LAVI - Distributeur Officiel d'Accessoires VDL
     company_url: ''
     company_logo: logo-LAVI-vdl
