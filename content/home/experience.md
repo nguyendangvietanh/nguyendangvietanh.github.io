@@ -61,7 +61,7 @@ experience:
         * Model Predictive Control
         * Simulation.
         
-  - title: Innovation Project Intern
+  - title: Project Intern
     company: Grenoble INP - UGA
     company_url: https://www.grenoble-inp.fr/
     company_logo: logo-grenobleinp
