@@ -9,12 +9,12 @@ external_link: ''
 image:
   caption: ''
   focal_point: Smart
-
-links:
-  - icon: folder-open
-    icon_pack: fab
-    name: Personal Website
-    url: https://www.isir.upmc.fr/personnel/sz/?lang=en
+    
+social:
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=iLmqcfQAAAAJ&hl=fr
+    
 url_code: ''
 url_pdf: ''
 url_slides: ''
