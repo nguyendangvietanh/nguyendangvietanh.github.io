@@ -1,6 +1,6 @@
 ---
 title: Kanty Rabenorosoa
-summary: 'Associate Professor at FEMTO-ST Institute, Université Bourgogne Franche-Comté, CNRS, Besançon, France'
+summary: 'Associate Professor at FEMTO-ST Institute, Université Bourgogne Franche-Comté, CNRS, France'
 
 
 # Optional external URL for project (replaces project detail page).
