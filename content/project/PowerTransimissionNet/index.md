@@ -9,7 +9,7 @@ date: ''
 external_link: ''
 
 image:
-  caption: Photo by DVA Nguyen
+  caption: ''
   focal_point: Smart
 
 
