@@ -1,6 +1,6 @@
 ---
 title: Patrick Rougeot
-summary: 'Senior Research Engineer at FEMTO-ST Institute, Université Bourgogne Franche-Comté, CNRS, Besançon, France'
+summary: 'Senior Research Engineer at FEMTO-ST Institute, Université Bourgogne Franche-Comté, CNRS, France'
 
 
 # Optional external URL for project (replaces project detail page).
