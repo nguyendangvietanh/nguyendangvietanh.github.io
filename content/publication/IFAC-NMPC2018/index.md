@@ -34,7 +34,7 @@ publication_short: In *IFAC-PapersOnLine*
 abstract: This paper proposes a meshed DC microgrid architecture supervised by a multilayer optimization based control. Its dynamical analysis is described through the Bond Graph notion and the port-Hamiltonian formalism. A multiscale supervision scheduling is developed to handle the load balancing problem for the proper energy distribution within the transmission network. The control architecture considers three control layers. These are implemented via a combination of differential flatness and MPC (Model Predictive Conctrol).
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: []
 
 tags: []
 
@@ -68,14 +68,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - PowerTransimissionNet
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
