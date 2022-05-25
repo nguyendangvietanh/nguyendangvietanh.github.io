@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Flatness-based hierarchical control of a meshed DC microgrid'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ authors:
   
 
 # Author notes (optional)
-author_notes:
+author_notes: ''
 
 date: '2018-08-22T00:00:00Z'
 doi: ''
