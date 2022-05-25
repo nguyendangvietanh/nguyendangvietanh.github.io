@@ -12,11 +12,7 @@ image:
   caption: Photo by DVA Nguyen
   focal_point: Smart
 
-links:
-  - icon: folder-open
-    icon_pack: fab
-    name: Link
-    url: ''
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
