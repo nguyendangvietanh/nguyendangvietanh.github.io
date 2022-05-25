@@ -1,5 +1,5 @@
 ---
-title: 'Flatness-based hierarchical control of a meshed DC microgrid'
+title: 'A Hybrid Concentric Tube Robot for Cholesteatoma Laser Surgery'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
