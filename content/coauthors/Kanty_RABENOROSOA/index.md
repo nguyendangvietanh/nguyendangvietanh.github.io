@@ -35,7 +35,7 @@ slides: ""
 Kanty Rabenorosoa holds the M.S. degree (2007)
 in electrical engineering from INSA Strasbourg, FR
 and the Ph.D. in automatic control (2010) from Univ.
-de Franche-Comte, FR. He was a postdoc fellow at
+de Franche-Comté, FR. He was a postdoc fellow at
 LIRMM (2011/2012) within ARAKNESS european project.
 
 He is currently Associate Professor at FEMTO-ST
