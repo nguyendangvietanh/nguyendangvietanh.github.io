@@ -10,8 +10,8 @@ image:
   caption: 'Photo from [orl-corsica](https://www.orl-corsica.fr/conferenciers/)'
   focal_point: Smart
 
-social:
-- icon: researchgate
+link:
+- icon: google-scholar
     icon_pack: ai
     link: https://www.researchgate.net/profile/Laurent-Tavernier
 url_code: ''
