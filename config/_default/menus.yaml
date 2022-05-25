@@ -14,7 +14,7 @@ main:
     url: '#featured'
     weight: 60
   - name: Accomplishments
-    url: '#Accomplishments'
+    url: '#accomplishments'
     weight: 72
   - name: Awards
     url: '#Awards'
