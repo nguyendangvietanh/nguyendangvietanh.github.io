@@ -41,7 +41,7 @@ summary: This paper proposes a meshed DC microgrid architecture supervised by a 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
