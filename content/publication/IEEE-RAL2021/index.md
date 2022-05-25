@@ -16,7 +16,7 @@ authors:
   
 
 
-date: '2021-11-01T00:00:00Z'
+date: '2021-11-17T00:00:00Z'
 doi: 10.1109/LRA.2021.3128685
 
 # Schedule page publish date (NOT publication's date).
