@@ -10,11 +10,12 @@ image:
   caption: ''
   focal_point: Smart
     
-social:
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+
+links:
+  - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=iLmqcfQAAAAJ&hl=fr
-    
+    name: Google Scholar
+    url: https://esisar.grenoble-inp.fr/fr/l-ecole/plateau-sacco-les-projets-d-innovation
 url_code: ''
 url_pdf: ''
 url_slides: ''
