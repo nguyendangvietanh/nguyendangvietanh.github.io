@@ -11,7 +11,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: google-scholar
+  - icon: researchgate
     icon_pack: ai
     name: ResearchGate
     url: https://www.researchgate.net/profile/Laurent-Tavernier
