@@ -1,5 +1,5 @@
 ---
-title: 'Flatness-based hierarchical control of a meshed DC microgrid'
+title: 'OCT as tool for laser ablation monitoring applied to cholesteatoma'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
