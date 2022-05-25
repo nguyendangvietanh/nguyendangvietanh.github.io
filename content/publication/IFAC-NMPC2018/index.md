@@ -46,7 +46,7 @@ featured: true
  - name: DOI
    url: https://doi.org/10.1016/j.ifacol.2018.11.017
 
-url_pdf: https://dvanguyen.netlify.app/content/publication/IFAC-NMPC2018/doc.pdf/
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
