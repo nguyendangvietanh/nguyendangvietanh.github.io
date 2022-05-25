@@ -12,10 +12,10 @@ authors:
   - Laurent Piétrac
   
 
-# Author notes (optional)
-author_notes: 
-  - 'Equal contribution'
-  - 'Equal contribution'
+#   Author notes (optional)
+# author_notes: 
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
 date: '2018-07-01T00:00:00Z'
 doi: https://doi.org/10.1016/j.ifacol.2018.11.017
@@ -31,7 +31,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IFAC-PapersOnLine*
-publication_short: In *IFAC*
+publication_short: In *IFAC-PapersOnLine*
 
 abstract: This paper proposes a meshed DC microgrid architecture supervised by a multilayer optimization based control. Its dynamical analysis is described through the Bond Graph notion and the port-Hamiltonian formalism. A multiscale supervision scheduling is developed to handle the load balancing problem for the proper energy distribution within the transmission network. The control architecture considers three control layers. These are implemented via a combination of differential flatness and MPC (Model Predictive Conctrol).
 
