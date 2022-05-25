@@ -1,6 +1,6 @@
 ---
 title: Cédric Girerd
-summary: 'CNRS Researcher, LIRMM, Montpellier, France'
+summary: 'CNRS Researcher, Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier (LIRMM), France'
 
 
 # Optional external URL for project (replaces project detail page).
