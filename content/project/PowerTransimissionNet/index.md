@@ -9,7 +9,7 @@ date: ''
 external_link: ''
 
 image:
-  caption: ''
+  caption: 'Photo by Mr. Nguyen's team'
   focal_point: Smart
 
 
