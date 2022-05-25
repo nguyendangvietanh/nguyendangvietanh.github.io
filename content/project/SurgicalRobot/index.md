@@ -20,7 +20,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: https://www.youtube.com/watch?v=FF1jgDfN9B8
+url_video: uploads/RAL_2021_VIDEO[1].mp4 
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
