@@ -7,7 +7,7 @@ summary: 'Professor at Univ. Hospital of Besançon, Univ. Bourgogne Franche-Comt
 external_link: ''
 
 image:
-  caption: ''
+  caption: 'Photo by [orl-corsica](https://www.orl-corsica.fr/conferenciers/)'
   focal_point: Smart
 
 links:
