@@ -13,7 +13,9 @@ authors:
   
 
 # Author notes (optional)
-author_notes: ''
+author_notes: 
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2018-08-22T00:00:00Z'
 doi: ''
