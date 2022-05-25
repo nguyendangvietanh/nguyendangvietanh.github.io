@@ -1,5 +1,5 @@
 ---
-title: 'Flatness-based hierarchical control of a meshed DC microgrid'
+title: 'An Effective Algorithm for Finding Shortest Paths in Tubular Spaces'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
