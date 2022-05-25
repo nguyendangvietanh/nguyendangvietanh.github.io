@@ -12,6 +12,10 @@ image:
     
 
 links:
+  - icon: folder-open
+    icon_pack: fab
+    name: Personal Website
+    url: https://www.isir.upmc.fr/personnel/sz/?lang=en
   - icon: google-scholar
     icon_pack: ai
     name: Google Scholar
