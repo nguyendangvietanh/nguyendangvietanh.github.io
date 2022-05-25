@@ -11,9 +11,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Laurent-Tavernier
+#- icon: researchgate
+#    icon_pack: ai
+#    link: https://www.researchgate.net/profile/Laurent-Tavernier
 url_code: ''
 url_pdf: ''
 url_slides: ''
