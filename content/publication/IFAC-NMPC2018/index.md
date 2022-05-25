@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2018-07-01T00:00:00Z'
+date: '2018-08-01T00:00:00Z'
 doi: https://doi.org/10.1016/j.ifacol.2018.11.017
 
 # Schedule page publish date (NOT publication's date).
