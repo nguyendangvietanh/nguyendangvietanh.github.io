@@ -15,6 +15,10 @@ links:
     icon_pack: fab
     name: Personal Website
     url: https://sites.google.com/view/rkanty/
+  - icon: google-scholar
+    icon_pack: ai
+    name: Google Scholar
+    url: https://scholar.google.com/citations?user=1spV5pEAAAAJ&hl=fr&oi=ao
 url_code: ''
 url_pdf: ''
 url_slides: ''
