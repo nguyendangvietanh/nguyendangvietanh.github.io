@@ -12,7 +12,7 @@ authors:
   - Olivier Lehmann
   - Laurent Tavernier
   - Jerome Szewczyk 
-  - Kanty Rabenorosoa
+  - [Kanty Rabenorosoa](https://dvanguyen.netlify.app/coauthors/kanty_rabenorosoa/)
   
 
 
