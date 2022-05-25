@@ -53,7 +53,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: https://www.youtube.com/watch?v=FF1jgDfN9B8
+url_video: uploads/RAL_2021_VIDEO[1].mp4 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
