@@ -36,4 +36,4 @@ Cédric Girerd received a PhD in Medical Robotics (2018) from the University of 
 in collaboration with the ICube-AVR Laboratory in Strasbourg and the FEMTO-ST Institute in Besançon.
 
 He worked at the FEMTO-ST Institute, Univ. Bourgogne Franche-Comté, CNRS (2018-2019) and at Morimoto Lab, University of California San Diego (2019-2022) as a Postdoctoral Researcher in Medical Robotics. 
-He is currently CNRS Researcher, LIRMM, Montpellier, France (since 2022). His research interests include the design and control of continuum and soft robots for minimally-invasive surgery.
+He is currently CNRS Researcher, LIRMM, Montpellier, France. His research interests include the design and control of continuum and soft robots for minimally-invasive surgery.
