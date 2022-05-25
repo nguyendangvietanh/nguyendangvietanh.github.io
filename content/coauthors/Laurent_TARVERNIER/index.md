@@ -14,7 +14,7 @@ link:
   - icon: google-scholar
     icon_pack: ai
     name: ResearchGate
-    link: https://www.researchgate.net/profile/Laurent-Tavernier
+    url: https://www.researchgate.net/profile/Laurent-Tavernier
 url_code: ''
 url_pdf: ''
 url_slides: ''
