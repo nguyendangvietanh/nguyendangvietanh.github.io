@@ -11,14 +11,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: folder-open
-    icon_pack: fab
-    name: Personal Website
-    url: https://www.isir.upmc.fr/personnel/sz/?lang=en
   - icon: google-scholar
     icon_pack: ai
-    name: Google Scholar
-    url: https://esisar.grenoble-inp.fr/fr/l-ecole/plateau-sacco-les-projets-d-innovation
+    name: ResearchGate
+    url: https://www.researchgate.net/profile/Laurent-Tavernier
 url_code: ''
 url_pdf: ''
 url_slides: ''
