@@ -6,7 +6,7 @@ title: Dang-Viet-Anh Nguyen
 superuser: true
 
 # Role/position/tagline
-role: Research Engineer - PhD Student in Automatic and Biomedical Robotics
+role: Research Engineer - PhD Student, Automatic and Biomedical Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
