@@ -1,6 +1,6 @@
 ---
 title: Laurent Tavernier
-summary: 'Professor at Univ. Hospital of Besançon, Univ. Bourgogne Franche-Comté, France; ENT Surgeon - Head of ENT Service at the Besançon University Hospital'
+summary: 'Professor at Univ. Hospital of Besançon, France; ENT Surgeon - Head of ENT Service at the Besançon University Hospital'
 
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +11,7 @@ image:
   focal_point: Smart
 
 link:
-  - icon: researchgate
+  - icon: google-scholar
     icon_pack: ai
     name: ResearchGate
     link: https://www.researchgate.net/profile/Laurent-Tavernier
