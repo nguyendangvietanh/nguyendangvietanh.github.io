@@ -10,10 +10,10 @@ image:
   caption: 'Photo from [orl-corsica](https://www.orl-corsica.fr/conferenciers/)'
   focal_point: Smart
 
-links:
-#- icon: researchgate
-#    icon_pack: ai
-#    link: https://www.researchgate.net/profile/Laurent-Tavernier
+social:
+- icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Laurent-Tavernier
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,4 +27,6 @@ url_video: ''
 slides: ""
 ---
 
-Laurent Tavernier is a professor Univ. Hospital of Besançon, Univ. Bourgogne Franche-Comté, France. He is Head of Ear-Nose-Throat (ENT) Service of Besançon University Hospital. He is also the coordinator of the µRoCS project.
+Laurent Tavernier is a professor at Univ. Hospital of Besançon, Univ. Bourgogne Franche-Comté (France) and is Head of Ear-Nose-Throat (ENT) Service of the Besançon University Hospital. 
+
+He is also the coordinator of the µRoCS project.
