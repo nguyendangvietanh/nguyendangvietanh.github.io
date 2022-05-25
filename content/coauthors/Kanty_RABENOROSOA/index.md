@@ -13,12 +13,12 @@ image:
 links:
   - icon: folder-open
     icon_pack: fab
-    name: Link
-    url: https://anr.fr/Project-ANR-17-CE19-0005
+    name: Personal Website
+    url: https://sites.google.com/view/rkanty/
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: https://www.youtube.com/watch?v=FF1jgDfN9B8&t=2s
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
