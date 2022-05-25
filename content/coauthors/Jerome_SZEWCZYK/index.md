@@ -19,7 +19,7 @@ links:
   - icon: google-scholar
     icon_pack: ai
     name: Google Scholar
-    url: https://esisar.grenoble-inp.fr/fr/l-ecole/plateau-sacco-les-projets-d-innovation
+    url: https://scholar.google.fr/citations?user=iLmqcfQAAAAJ&hl=vi&oi=ao
 url_code: ''
 url_pdf: ''
 url_slides: ''
