@@ -1,8 +1,8 @@
 ---
 title: Power Balancing in a DC-meshed Microgrid Through Constrained Optimization
-summary: ''
+summary: 'LCIS (2018)'
 tags:
-  - LCIS (2018)
+  - Power Distribution Network
 date: ''
 
 # Optional external URL for project (replaces project detail page).
