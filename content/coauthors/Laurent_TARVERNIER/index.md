@@ -10,11 +10,15 @@ image:
   caption: 'Photo from [orl-corsica](https://www.orl-corsica.fr/conferenciers/)'
   focal_point: Smart
 
-link:
+links:
+  - icon: folder-open
+    icon_pack: fab
+    name: Personal Website
+    url: https://www.isir.upmc.fr/personnel/sz/?lang=en
   - icon: google-scholar
     icon_pack: ai
-    name: ResearchGate
-    url: https://www.researchgate.net/profile/Laurent-Tavernier
+    name: Google Scholar
+    url: https://esisar.grenoble-inp.fr/fr/l-ecole/plateau-sacco-les-projets-d-innovation
 url_code: ''
 url_pdf: ''
 url_slides: ''
