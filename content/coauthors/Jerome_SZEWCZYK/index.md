@@ -1,6 +1,6 @@
 ---
 title: Jérôme Szewczyk
-summary: 'Professor at Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University, CNRS, France.'
+summary: 'Professor at Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University, CNRS, France'
 
 
 # Optional external URL for project (replaces project detail page).
