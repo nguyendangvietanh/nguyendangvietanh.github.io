@@ -1,6 +1,6 @@
 ---
 title: Yann Nguyen
-summary: 'Professor at Sorbonne University; ENT Surgeon at Pitié-Salpêtrière Hospital (AP-HP)'
+summary: 'Professor at Sorbonne University, France; ENT Surgeon at Pitié-Salpêtrière Hospital (AP-HP)'
 
 
 # Optional external URL for project (replaces project detail page).
