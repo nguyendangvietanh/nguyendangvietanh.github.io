@@ -1,5 +1,5 @@
 ---
-title: Cédric Girerd
+title: Cédric GIRERD
 summary: 'CNRS Researcher, Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier (LIRMM), France'
 
 
