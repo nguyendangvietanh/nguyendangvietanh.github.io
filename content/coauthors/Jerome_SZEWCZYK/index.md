@@ -1,5 +1,5 @@
 ---
-title: Jérôme Szewczyk
+title: Jérôme SZEWCZYK
 summary: 'Professor at Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University, CNRS, France'
 
 
