@@ -1,6 +1,6 @@
 ---
 title: Ionela PRODAN
-summary: 'Associated Professor at Grenoble INP - ESISAR (École Nationale Supérieure en Systèmes Avancés et Réseaux), UGA and LCIS laboratory, France'
+summary: 'Associated Professor at Grenoble INP - ESISAR (École Nationale Supérieure en Systèmes Avancés et Réseaux) & LCIS laboratory, France'
 
 
 # Optional external URL for project (replaces project detail page).
