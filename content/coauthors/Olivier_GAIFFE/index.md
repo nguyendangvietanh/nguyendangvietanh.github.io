@@ -1,5 +1,5 @@
 ---
-title: Olivier Gaiffe
+title: Olivier GAIFFE
 summary: 'PhD - Research Engineer at Univ. Hospital of Besançon, Univ. Bourgogne Franche-Comté, France'
 
 
