@@ -39,6 +39,6 @@ He obtained the PhD degree on “robot based surgery for cochlear implantation�
 He keeps working on robotics in the "Hearing Institute" (Institut Pasteur/Inserm). The goal is to design and evaluate surgical solutions from lab bench to operating room for hearing loss. 
 
 He won the Scientific Emergence Prize in 2018 for clinical research. The prize honored his contributions in developing the first surgical robot for cochlear implantation.
-This led to the design of the RoboTol ear-surgery robot and its commercialization by the company by Collin Medical in 2017.
+This led to the design of the RoboTol ear-surgery robot and its commercialization by the Collin Medical company in 2017.
 
 He is a member of the µRoCS project.
