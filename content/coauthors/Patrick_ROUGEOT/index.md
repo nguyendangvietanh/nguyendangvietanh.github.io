@@ -1,5 +1,5 @@
 ---
-title: Patrick Rougeot
+title: Patrick ROUGEOT
 summary: 'Senior Research Engineer at FEMTO-ST Institute, Université Bourgogne Franche-Comté, CNRS, France'
 
 
