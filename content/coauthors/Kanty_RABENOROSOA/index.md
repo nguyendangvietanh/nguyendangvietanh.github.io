@@ -1,5 +1,5 @@
 ---
-title: Kanty Rabenorosoa
+title: Kanty RABENOROSOA
 summary: 'Associate Professor at FEMTO-ST Institute, Université Bourgogne Franche-Comté, CNRS, France'
 
 
