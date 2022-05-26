@@ -1,5 +1,5 @@
 ---
-title: Laurent Tavernier
+title: Laurent TAVERNIER
 summary: 'Professor at Univ. Hospital of Besançon, France; ENT Surgeon - Head of ENT Service at the Besançon University Hospital'
 
 
