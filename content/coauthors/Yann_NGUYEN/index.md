@@ -1,5 +1,5 @@
 ---
-title: Yann Nguyen
+title: Yann NGUYEN
 summary: 'Professor at Sorbonne University, France; ENT Surgeon at Pitié-Salpêtrière Hospital, Assistance Publique–Hôpitaux de Paris (AP-HP)'
 
 
