@@ -43,21 +43,18 @@ experience:
     company_url: ''
     location: Vietnam
     date_start: '2015-05-19'
-    date_end: ''
     description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Mechanics_Olympic_Contest_Year_2015.pdf)
   - title: National Mechanics Olympic Contest
     company: Third Prize at Theoretical Mechanics
     company_url: ''
     location: Vietnam
     date_start: '2014-05-14'
-    date_end: ''
     description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Mechanics_Olympic_Contest_Year_2014.pdf)
   - title: National Olympic Contest for Excellent High School Students
     company: Third Prize at Physics
     company_url: ''
     location: Vietnam
     date_start: '2012-03-29'
-    date_end: ''
     description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Contest_for_Excellent_Student_at_High_Schools_Year_2012.pdf)
 design:
   columns: '2'
