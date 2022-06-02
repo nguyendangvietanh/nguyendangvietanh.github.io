@@ -25,7 +25,7 @@ experience:
   - title: Eiffel Excellence Scholarship Program
     company: The French Ministry for Europe and Foreign Affairs
     company_url: https://www.campusfrance.org/en/the-eiffel-scholarship-program
-    company_logo: logo-femto-st
+    company_logo: logo-campusFrance
     location: France
     date_start: '2016-08-01'
     date_end: '2018-07-15'
