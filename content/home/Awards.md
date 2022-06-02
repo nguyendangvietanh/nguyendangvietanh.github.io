@@ -60,7 +60,7 @@ experience:
     location: Vietnam
     date_start: '2012-03-29'
     date_end: ''
-    description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Contest_for_Excellent_Student_at_High Schools_Year 2012.pdf)
+    description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Contest_for_Excellent_Student_at_High_Schools_Year 2012.pdf)
 design:
   columns: '2'
 ---
