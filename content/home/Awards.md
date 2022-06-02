@@ -29,7 +29,7 @@ experience:
     location: France
     date_start: '2016-08-01'
     date_end: '2018-07-15'
-    description: ''
+    description: Download the [scholarship certificate](https://dvanguyen.netlify.app/uploads/Bourse_EIFFEL.pdf)
         
 #  - title: Teaching
 #    company: SUPERMICROTECH-ENSMM
