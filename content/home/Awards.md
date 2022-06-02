@@ -54,6 +54,13 @@ experience:
     date_start: '2014-05-14'
     date_end: ''
     description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Mechanics_Olympic_Contest_Year_2014.pdf)
+  - title: Third Prize at Physics in the National Contest for Excellent High School Students
+    company: The Ministry of Education and Training of Vietnam
+    company_url: ''
+    location: Vietnam
+    date_start: '2012-03-29'
+    date_end: ''
+    description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Contest_for_Excellent_Student_at_High Schools_Year 2012.pdf)
 design:
   columns: '2'
 ---
