@@ -38,14 +38,6 @@ experience:
     date_start: '2011-09-01'
     date_end: '2013-09-01'
     description: See the [Scholarship Certificate](https://dvanguyen.netlify.app/uploads/OdonVallet.pdf)
-  - title: Third Prize in the National Mechanics Olympic Contest - Subject Theoretical Mechanics
-    company: Vietnam Association of Mechanics
-    company_url: https://cohocvietnam.org.vn/
-    company_logo: logo-HoiCHVN
-    location: Vietnam
-    date_start: '2014-05-14'
-    date_end: ''
-    description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Mechanics_Olympic_Contest_Year_2014.pdf)
   - title: Third Prize in the National Mechanics Olympic Contest - Subject Mechanical Engineering
     company: Vietnam Association of Mechanics
     company_url: https://cohocvietnam.org.vn/
@@ -54,6 +46,14 @@ experience:
     date_start: '2015-05-19'
     date_end: ''
     description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Mechanics_Olympic_Contest_Year_2015.pdf)
+  - title: Third Prize in the National Mechanics Olympic Contest - Subject Theoretical Mechanics
+    company: Vietnam Association of Mechanics
+    company_url: https://cohocvietnam.org.vn/
+    company_logo: logo-HoiCHVN
+    location: Vietnam
+    date_start: '2014-05-14'
+    date_end: ''
+    description: See the [Merit Prize (english translated version)](https://dvanguyen.netlify.app/uploads/National_Mechanics_Olympic_Contest_Year_2014.pdf)
 design:
   columns: '2'
 ---
