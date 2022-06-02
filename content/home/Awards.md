@@ -33,7 +33,7 @@ experience:
   - title: Odon Vallet Scholarships (for academic year 2010-2011, 2011-2012, and 2012-2013)
     company: Vallet Foundation
     company_url: https://www.fondationvallet.org/bourses/vietnam/
-    company_logo: Logo_Odon.svg
+    company_logo: Logo_Odon
     location: Vietnam
     date_start: '2011-09-01'
     date_end: '2013-09-01'
