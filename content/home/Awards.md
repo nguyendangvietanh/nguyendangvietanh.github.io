@@ -30,7 +30,7 @@ experience:
     date_start: '2016-08-01'
     date_end: '2018-07-15'
     description: See the [Scholarship Certificate](https://dvanguyen.netlify.app/uploads/Bourse_EIFFEL.pdf)
-  - title: Odon Vallet Scholarships (for academic years 2010-2011, 2011-2012, and 2012-2013)
+  - title: Odon Vallet Scholarships (for academic years 2010-2011 and 2011-2012)
     company: Vallet Foundation
     company_url: https://www.fondationvallet.org/bourses/vietnam/
     company_logo: Logo_Odon
