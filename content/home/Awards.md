@@ -30,13 +30,13 @@ experience:
     date_start: '2016-08-01'
     date_end: '2018-07-15'
     description: See the [Scholarship Certificate](https://dvanguyen.netlify.app/uploads/Bourse_EIFFEL.pdf)
-  - title: Odon Vallet Scholarships (for academic years 2010-2011 and 2011-2012)
+  - title: Odon Vallet Scholarships (academic years 2010-2011 & 2011-2012)
     company: Vallet Foundation
     company_url: https://www.fondationvallet.org/bourses/vietnam/
     company_logo: Logo_Odon
     location: Vietnam
-    date_start: '2011-09-01'
-    date_end: '2013-09-01'
+    date_start: '2010-09-01'
+    date_end: '2012-09-01'
     description: See the [Scholarship Certificate](https://dvanguyen.netlify.app/uploads/OdonVallet.pdf)
   - title: National Mechanics Olympic Contest
     company: Third Prize at Mechanical Engineering
