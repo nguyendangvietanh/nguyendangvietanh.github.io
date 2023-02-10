@@ -26,18 +26,18 @@ content:
 
   # Contact details (edit or remove options as required)
   email: dangvietanh.nguyen@femto-st.fr
-  email: a.nguyen@ascorel.com
+         a.nguyen@ascorel.com
   telephone: (+33)7 69 35 72 98
   address:
-    street: 26 rue de l'Epitaphe
-    city: Besançon
-    postcode: '25000'
+    street: 357 Rue du Champ de Course
+    city: Pont-Évêque
+    postcode: '38780'
     country: France
     country_code: FR
-  directions: Enter ENSMM Building
+  directions: Enter ASCOREL Building
   coordinates:
-    latitude: '47.2513'
-    longitude: '5.9936'
+    latitude: '45.5261'
+    longitude: '4.9243'
 
 design:
   columns: '2'
