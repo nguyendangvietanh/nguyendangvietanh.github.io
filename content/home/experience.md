@@ -38,14 +38,16 @@ experience:
         * Control
         * Experimental Validation.
         
-  - title: Teaching
+  - title: Teaching Associate
     company: SUPERMICROTECH-ENSMM
     company_url: ''
     company_logo: logo-supermicrotech-ENSMM
     location: Besançon, France
     date_start: '2019-09-01'
     date_end: '2021-09-30'
-    description: Automatic Control
+    description: |2-
+        Lectures, seminars and practical works for undergraduate students:
+        * Automatic control.
     
   - title: Research Engineer
     company: Laboratoire de Conception et d'Intégration des Systèmes
