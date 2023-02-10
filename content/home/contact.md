@@ -27,6 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: dangvietanh.nguyen@femto-st.fr
   email: a.nguyen@ascorel.com
+  telephone: (+33)7 69 35 72 98
   address:
     street: 26 rue de l'Epitaphe
     city: Besançon
