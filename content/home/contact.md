@@ -35,7 +35,7 @@ content:
     country_code: FR
   directions: Enter ASCOREL Building
   coordinates:
-    latitude: '45.5259'
+    latitude: '45.5250'
     longitude: '4.9243'
 
 design:
