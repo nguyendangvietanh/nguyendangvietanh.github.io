@@ -40,12 +40,12 @@ experience:
         
   - title: Teaching
     company: SUPERMICROTECH-ENSMM
-    company_url: https://www.supmicrotech.fr/en
+    company_url: ''
     company_logo: logo-supermicrotech-ENSMM
-   location: Besançon, France
+    location: Besançon, France
     date_start: '2019-09-01'
     date_end: '2021-09-30'
-    description: Automation and Control (64h/year, undergrade)
+    description: Automatic Control
     
   - title: Research Engineer
     company: Laboratoire de Conception et d'Intégration des Systèmes
