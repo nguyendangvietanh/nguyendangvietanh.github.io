@@ -25,8 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dangvietanh.nguyen@femto-st.fr
-         a.nguyen@ascorel.com
+  email: a.nguyen@ascorel.com
   telephone: (+33)7 69 35 72 98
   address:
     street: 357 Rue du Champ de Course
@@ -36,7 +35,7 @@ content:
     country_code: FR
   directions: Enter ASCOREL Building
   coordinates:
-    latitude: '45.5261'
+    latitude: '45.5259'
     longitude: '4.9243'
 
 design:
