@@ -39,6 +39,14 @@ item:
     organization_url: https://www.edx.org
     title: Manufacturing Process Control - Variation Modeling and Control
     url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/WGJXFZXEKEM2
+    date_end: ''
+    date_start: '2023-06-23'
+    description: ''
+    organization: edX
+    organization_url: https://www.edx.org
+    title: Deep Learning Specialization (5 courses in series)
+    url: ''
 
 design:
   columns: '2'
