@@ -69,7 +69,7 @@ highlight_name: true
 
 Dang-Viet-Anh Nguyen is currently a Research Engineer at [FEMTO-ST Institute](https://www.femto-st.fr/en). His research interests are modeling, design, and control of continuum robotics, especially for medical interventions. Bisides, he has over 4 years experiences of working on different professional projects (both academic and industrial) with many smart systems including: smart water treatment (2017), helicopter (2017), energy distribution network (2018), surgical robot (2018-2022).
 
-He obtained his MEng degree (2018) in Complex Systems Engineering at [Grenoble INP-UGA](https://www.grenoble-inp.fr/) (France) with the [Eiffel Excellence scholarship](https://www.campusfrance.org/en/the-eiffel-scholarship-program) from the Ministry of Europe and Foreign Affairs of France and his PhD degree (2023) in Automatics at [University Bourgogne Franche-Comté](https://www.ubfc.fr/en/) with the subject: Hybrid Continuum Robot For Middle Ear Surgery: Design, Fabrication & Demonstration.
+He obtained his MEng degree (2018) in Electronics, Informatics and Systems at [Grenoble INP-UGA](https://www.grenoble-inp.fr/) (France) with the [Eiffel Excellence scholarship](https://www.campusfrance.org/en/the-eiffel-scholarship-program) from the Ministry of Europe and Foreign Affairs of France and his PhD degree (2023) in Automatics at [University Bourgogne Franche-Comté](https://www.ubfc.fr/en/) with the subject: Hybrid Continuum Robot For Middle Ear Surgery: Design, Fabrication & Demonstration.
 
 He is now working for ASCOREL (France) at the R&D Department.
 
