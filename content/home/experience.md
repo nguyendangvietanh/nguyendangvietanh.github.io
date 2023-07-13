@@ -37,7 +37,7 @@ experience:
     company_logo: logo-femto-st
     location: Besançon, France
     date_start: '2018-10-01'
-    date_end: ''
+    date_end: '2022-09-30'
     description: |2-
         Hybrid Continuum Robot for Middle Ear Surgery (see [µRoCS Project](https://dvanguyen.netlify.app/#projects)):
         
