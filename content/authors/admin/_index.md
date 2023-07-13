@@ -71,6 +71,6 @@ Dang-Viet-Anh Nguyen is currently a Research Engineer at [FEMTO-ST Institute](ht
 
 He obtained his MEng degree (2018) at [Grenoble INP-UGA](https://www.grenoble-inp.fr/) (France) with the [Eiffel Excellence scholarship](https://www.campusfrance.org/en/the-eiffel-scholarship-program) from the Ministry of Europe and Foreign Affairs of France and his PhD degree (2023) at [University Bourgogne Franche-Comté](https://www.ubfc.fr/en/) with the subject: Hybrid Continuum Robot For Middle Ear Surgery: Design, Fabrication & Demonstration.
 
-He is now working for ASCOREL (France) at the R&D Department.
+He is now working for [ASCOREL](https://www.ascorel.com/en/) at the R&D Department.
 
 {{< icon name="download" pack="fas" >}} Download my [CV](https://dvanguyen.netlify.app/uploads/resume.pdf).
