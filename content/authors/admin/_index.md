@@ -27,13 +27,10 @@ education:
   courses:
     - course: PhD in Automatic
       institution: University Bourgogne Franche-Comté
-      year: in progess
+      year: 2023
     - course: MEng in Electronics, Informatics and Systems
       institution: Grenoble INP - UGA
       year: 2018
-    #- course: BSc in Artificial Intelligence
-    # institution: Massachusetts Institute of Technology
-    # year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
