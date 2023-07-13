@@ -10,8 +10,7 @@ role: PhD, R&D Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ASCOREL
-  - url: [ASCOREL](https://www.ascorel.com/en/)
+  - name: [ASCOREL](https://www.ascorel.com/en/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, smart systems, and devices.
