@@ -32,7 +32,7 @@ experience:
     description: ''
 
   - title: Research Engineer
-    company: FEMTO-ST Institute
+    company: FEMTO-ST Institute, CNRS
     company_url: ''
     company_logo: logo-femto-st
     location: Besançon, France
