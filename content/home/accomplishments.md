@@ -28,7 +28,7 @@ item:
     date_start: '2023-06-23'
     description: ''
     organization: Coursera
-    organization_url: https://www.edx.org
+    organization_url: https://www.coursera.org
     title: Deep Learning Specialization (5 courses in series)
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/verify/39DB5G22RZAS
