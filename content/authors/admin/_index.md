@@ -10,11 +10,11 @@ role: Research Engineer - PhD Student, Automatic and Biomedical Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: FEMTO-ST Institute, CNRS
-    url: https://www.femto-st.fr/en
+  - name: ASCOREL
+    url: [ASCOREL](https://www.ascorel.com/en/)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include continuum robotics, smart systems and devices.
+bio: My research interests include robotics, smart systems, and devices.
 
 # Interests to show in About widget
 interests:
