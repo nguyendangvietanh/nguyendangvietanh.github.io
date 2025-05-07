@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DVA NGUYEN</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>DVA NGUYEN</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>DVA NGUYEN</title><link>https://example.com/</link></image><item><title>Example Talk</title><link>https://example.com/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://example.com/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>OCT as tool for laser ablation monitoring applied to cholesteatoma</title><link>https://example.com/publication/cras2022/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://example.com/publication/cras2022/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An Effective Algorithm for Finding Shortest Paths in Tubular Spaces</title><link>https://example.com/publication/mdpi-algorithm2022/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://example.com/publication/mdpi-algorithm2022/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>A Hybrid Concentric Tube Robot for Cholesteatoma Laser Surgery</title><link>https://example.com/publication/ieee-ral2021/</link><pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/ieee-ral2021/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://example.com/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://example.com/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;figure id="figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Slides</title><link>https://example.com/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://example.com/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre tabindex="0">&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Flatness-based hierarchical control of a meshed DC microgrid</title><link>https://example.com/publication/ifac-nmpc2018/</link><pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate><guid>https://example.com/publication/ifac-nmpc2018/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://example.com/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/admin/config.yml</guid><description/></item><item><title>Brahim TAMADAZTE</title><link>https://example.com/coauthors/brahim_tamadazte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/brahim_tamadazte/</guid><description>&lt;p>Brahim Tamadazte holds a Ph.D. in Robotics from the “Univ. of Franche-Comté” in 2009 and a Habilitation (HdR) in 2019.
+Previously, he obtained a MS degree in Robotics and Intelligent Systems from the “Univ. of Pierre et Marie Curie (Paris VI)” in 2005.
+He has also trained as an Engineer in Control Theory at the “Univ. Mouloud Mammeri de Tizi-Ouzou”, Algeria.&lt;/p>
+&lt;p>He works in different fields of medical microrobotics such as image-guided surgery, mechatronics design, medical imaging, and compressed sensing.
+From 2012 to 2020, he was a member of the FEMTO-ST Institute (AS2M Dep.) as CNRS Senior researcher.
+Since 2020, he has joined the ISIR lab located in the facilities of Sorbonne University (Jussieu).
+His work is part of the activities of the AGATHE team (CNRS, Inserm ERL U1150, SU).&lt;/p></description></item><item><title>Cédric GIRERD</title><link>https://example.com/coauthors/cedric_girerd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/cedric_girerd/</guid><description>&lt;p>Cédric Girerd received a PhD in Medical Robotics (2018) from the University of Strasbourg, France,
+in collaboration with the ICube-AVR Laboratory in Strasbourg and the FEMTO-ST Institute in Besançon.&lt;/p>
+&lt;p>He worked at the FEMTO-ST Institute, Univ. Bourgogne Franche-Comté, CNRS (2018-2019) and at Morimoto Lab, University of California San Diego (2019-2022) as a Postdoctoral Researcher in Medical Robotics.
+He is currently CNRS Researcher, LIRMM, Montpellier, France. His research interests include the design and control of continuum and soft robots for minimally-invasive surgery.&lt;/p></description></item><item><title>Ionela PRODAN</title><link>https://example.com/coauthors/ionela_prodan/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/ionela_prodan/</guid><description>&lt;p>She received the B.E. degree from the University &amp;lsquo;&amp;lsquo;Politehnica&amp;rsquo;&amp;rsquo; of Bucharest, Romania (2009) and the PhD in Control Engineering at Supélec, Gif-sur-Yvette, France (2012).
+For one and a half year she was a postdoctoral researcher within the Chair on Systems Science and the Energetic Challenge - EDF, École Centrale Paris and Supélec, France (2013 - 2014).&lt;/p>
+&lt;p>She is currently an Associated Professor (HdR) at Grenoble INP - ESISAR and LCIS (Laboratoire de Conception et d&amp;rsquo;Intégration des Systèmes) laboratory, France.
+Her research interests include: automatic control and optimization solver applied to multiple autonomous vehicles and energy systems. &lt;br>
+resilience in interconnected infrastructure systems.&lt;/p></description></item><item><title>Jérôme SZEWCZYK</title><link>https://example.com/coauthors/jerome_szewczyk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/jerome_szewczyk/</guid><description>&lt;p>Jérôme Szewczyk received a MS degree (1994)
+in mechanical engineering from University of
+Compiegne, FR and a PhD degree (1998) in robotics at University of Paris VI.
+He was assistant professor from 2000 to 2010 at University of Versailles and
+is now full professor at Sorbonne University at the
+Institut des Systemes Intelligents et de Robotique.
+He is the author of over 100 technical publications.&lt;/p>
+&lt;p>His research activities concern the design of
+sensors and actuators for meso-robotics based on
+smart materials and the optimal design of robotic
+structures for surgical applications. In particular, he is interested in the
+development and optimization of robotic surgical instruments and active
+flexible catheters for minimally invasive interventions.&lt;/p></description></item><item><title>Kanty RABENOROSOA</title><link>https://example.com/coauthors/kanty_rabenorosoa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/kanty_rabenorosoa/</guid><description>&lt;p>Kanty Rabenorosoa holds the M.S. degree (2007)
+in electrical engineering from INSA Strasbourg, FR
+and the Ph.D. in automatic control (2010) from Univ.
+de Franche-Comté, FR. He was a postdoc fellow at
+LIRMM (2011/2012) within ARAKNESS european project.&lt;/p>
+&lt;p>He is currently Professor at FEMTO-ST
+Institute in AS2M department. His research interests
+are continuum and soft robots at small scales for
+medical applications.&lt;/p></description></item><item><title>Laurent LEFEVRE</title><link>https://example.com/coauthors/laurent_lefevre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/laurent_lefevre/</guid><description>&lt;p>Laurent Lefèvre got his BSc from the Ecole Polytechnique de Bruxelles (1991) and his MSc in applied mathematics from Ecole Polytechnique de Louvain (1994), both in Belgium.
+Then he moved to France and got his PhD in control from Ecole Centrale de Lille (Cristal lab, 1999).
+In 2000, he obtained an associated professor position in the Grenoble control lab (Gipsa lab) and from 2005 in the Lyon lab for process and control (LAGEP).
+Since 2011 he is full professor with the Laboratoire de Conception et d’Intégration des Systèmes (LCIS) and Grenoble Institute of Technology (Grenoble INP) in the fields of applied mathematics and control.&lt;/p>
+&lt;p>His current domains of interest are numerical methods for control, structured modelling for complex systems and nonlinear control. Laurent Lefèvre was involved in various collaborative research projects related to complex water systems, complex thermodynamics systems, smart DC microgrids and plasma physics.&lt;/p></description></item><item><title>Laurent TAVERNIER</title><link>https://example.com/coauthors/laurent_tarvernier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/laurent_tarvernier/</guid><description>&lt;p>Laurent Tavernier is a professor at Univ. Hospital of Besançon, Univ. Bourgogne Franche-Comté (France) and is Head of Ear-Nose-Throat (ENT) Service of the Besançon University Hospital.&lt;/p>
+&lt;p>He is also the coordinator of the µRoCS project.&lt;/p></description></item><item><title>MicroRobot-assisted Cholesteatoma Surgery (µRoCS)</title><link>https://example.com/project/surgicalrobot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/surgicalrobot/</guid><description>&lt;p>Each year, around one new case per 10,000 inhabitants in Europe is infected by cholesteatoma. It is a serious form of chronic otitis presented as an abnormal proliferation of epidermal tissue, with desquamation and destruction of surrounding bones. As a consequence, complications can be dizziness, meningitis (or other brain infections), facial palsy or total and irreversible deafnes. The only current treatment is to remove the infected tissues through a surgical operation. However, the associated risk of recurrences due to residual cholesteatoma can reach 23-25% of cases depending on the country and age group. Follow-up strategy is systematically applied and induces a painful second examination of the patient, along with additional costs. The complete removal of cholesteatoma is thus a considerable limitation of current practices due to the limited dexterity of the surgical tools working in the tiny and confined space of the middle ear cavity.&lt;/p>
+&lt;p>Therefore, the µRoCS project proposed a surgical robotic system including flexible microrobots which enable contact with hard-to-reach anatomical targets inside the middle ear and perform the cholesteatoma removal by laser. The aim of this project is to reduce the cholesteatoma recurrence by removing efficiently all infected cells from the first operation with a minimally invasive surgery. This microrobotic system will improve the accuracy and repeatability of the surgeon’s gestures. The accurate detection of cholesteatoma cells is supported by using optical biopsies. Thanks to a millimeter size and a high bending curvature of its distal end, the flexible surgical tool would improve the accessibility and minimize the need for large incisions.&lt;/p>
+&lt;p>This project is funded by &lt;a href="https://anr.fr/en/" target="_blank" rel="noopener">ANR&lt;/a> (Agence Nationale de la Recherche) with the partners including &lt;a href="https://www.chu-besancon.fr/" target="_blank" rel="noopener">CHRUB&lt;/a> (Centre Hospitalier Régional Universitaire de Besançon), &lt;a href="https://www.inserm.fr/en/home/" target="_blank" rel="noopener">INSERM&lt;/a> (Institut National de la Santé et de la Recherche Médicale), &lt;a href="https://www.femto-st.fr/en" target="_blank" rel="noopener">FEMTO-ST&lt;/a> (Franche-Comté Électronique Mécanique Thermique et Optique - Sciences et Technologies), and &lt;a href="https://www.isir.upmc.fr/?lang=en" target="_blank" rel="noopener">ISIR&lt;/a> (Institut des Systèmes Intelligents et de Robotique). The project coordinator is Professor Laurent Tavernier, head of ENT Service at CHRUB.&lt;/p>
+&lt;p>As member of the µRoCS project, the work of Mr. Nguyen focuses on the mechatronics discipline of the proposed hybrid continuum robot for middle ear surgery. The main contributions including the specifications, design, modelling, prototype fabrication and low-level control of the proposed microrobot based on anatomic constraints.&lt;/p></description></item><item><title>Mini smart water treatment station for motorhomes (EZA Water)</title><link>https://example.com/project/smartwaterfilter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/smartwaterfilter/</guid><description>&lt;p>LAVI is a start-up company operating in the field of accessories for Motorhomes. In collaboration with SOPLAIR company, LAVI seeks to develop a range of intelligent products to improve the comfort of the motorhome: the EZA range.&lt;/p>
+&lt;p>The mission of EZA Water was to reprocess used water, there by, improve the comfort and autonomy of motorhome owners. The entrusted mission was to design an intelligent and low-consumption electronic system to check the operation of the hydraulic system using sensors (i.e., detecting the clogging and leaking problems). This system can communicate with the user via a touch screen and a beep sound. The maintenance software makes it possible to modify the parameters of the system and to recover the recorded data files with a micro SD card. Thus, the company has a simple and effective tool to analyze the causes of malfunction and ensure product traceability.&lt;/p>
+&lt;p>Mr. Nguyen and his team (as 4 future engineers of Grenoble INP-ESISAR) researched and developed (full-time) this product for LAVI company during six months (Jan - Jul, 2017). The main tasks of Mr. Nguyen focus on the design of a Printed Circuit Boards (PCB), Human Machine Interface (HMI) development, and sensors/signal processing.&lt;/p></description></item><item><title>Olivier GAIFFE</title><link>https://example.com/coauthors/olivier_gaiffe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/olivier_gaiffe/</guid><description>&lt;p>Olivier Gaiffe obtained his Ph.D. degree in Engineering Science from the University of Franche-Comté,
+Besançon, France in 2009. He is now working at Univ. Hospital of Besançon as a research engineer. His current research interests include fluorescence, optical sensing and instrumentation.&lt;/p></description></item><item><title>Olivier LEHMANN</title><link>https://example.com/coauthors/olivier_lehmann/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/olivier_lehmann/</guid><description>&lt;p>Olivier Lehmann received the Engineer degree (M.S. degree) in automation, mechanics and computer sciences from ENSMM, Besançon, France, in
+2000. He was an engineer in charge of technology transfer at the Institut de Productique and then at the Institut Pierre Vernier. In this context, he developed
+numerous robotics solutions dedicated to SMEs for 13 years and helped SMEs in their development.&lt;/p>
+&lt;p>He is currently research engineer at FEMTO-ST. He is in charge of the development of several micronanorobotic stations in vacuum or non-vacuum environment.
+His scientific fields are robotics, control, vision and the development of integrated solutions.&lt;/p></description></item><item><title>Patrick ROUGEOT</title><link>https://example.com/coauthors/patrick_rougeot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/patrick_rougeot/</guid><description>&lt;p>Patrick Rougeot received the engineer degree
+in mechanics and microtechniques from ENSMM
+(Ecole Nationale Supérieure de Mécanique et des
+Microtechniques), Besançon, FR (1990).&lt;/p>
+&lt;p>He is currently a senior research engineer at
+FEMTO-ST Institute within the AS2M department.
+He developed a high expertise in microrobotics and
+related fields for both industrial and medical purposes. He works in micromechatronics design and
+microrobot control for minimally-invasive surgery
+applications.&lt;/p></description></item><item><title>Power Balancing in a DC-meshed Microgrid Through Constrained Optimization (C3μ project)</title><link>https://example.com/project/powertransimissionnet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/powertransimissionnet/</guid><description>&lt;p>The energy from fossil fuel sources results in the huge amounts of pollution as well as the exhaustion of coal and oil. These problems lead us to find other energy sources as well as a better solution in power distribution in order to reduce the power losses. This project considered the DC part of a hybrid AC/DC microgrid with a meshed topology. It addressed the cost minimization, the battery scheduling and the power loss minimization within the power distribution network through constrained optimization. The novelty came from applying differential flatness properties to the microgrid components and formulating the cost and constraints in terms of the associated B-splines parametrization of the flat outputs (the voltages and currents of the system). This allowed obtaining optimal power profiles to minimize the power dissipation and the cost of the electricity purchase from the external grid. Based on the weather forecast and the historical power consumption data, these profiles were tracked using a model predictive control at the higher level, while the lower level deals with the operation of the switches within the DC/DC converters. Extensive simulations under nominal and fault-affected scenarios using realistic data validate the proposed approach.&lt;/p>
+&lt;p>This project, in the collaboration between LCIS (in Valence) and Ampere labs (in Lyon), is funded by &lt;a href="https://anr.fr/en/" target="_blank" rel="noopener">ANR&lt;/a> (Agence Nationale de la Recherche) within the framework of the &lt;a href="https://anr.fr/Project-ANR-15-CE05-0004" target="_blank" rel="noopener">project ANR-15-CE05-0004 C3μ&lt;/a> (Components, Control and Communication for DC microgrid).&lt;/p></description></item><item><title>Simulation, control &amp; experimental testing on a helicopter system (CE150)</title><link>https://example.com/project/helicoptersystem/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/helicoptersystem/</guid><description>&lt;p>The project focused on modeling and closed-loop controls (PID, LQR, MPC) of a laboratory helicopter using conventional control methods. The system consisted of a body, carrying two propellers driven by DC motors, and a massive support. The body had two degrees of freedom. Both body position angles (elevation and azimuth) were influenced by rotation of propellers. Center of gravity was changed by moving small weight along the main horizontal axis of helicopter by a servomotor. The mathematical model of the helicopter system was a typical MIMO 2x2 system with significant cross-couplings. The electromechanical system can be linearized to a linear sixth-order model when operating near the steady state. A multifunctional card MF624 was used as interface module between PC based controller and helicopter system. It was designed for data acquisition and transmission. The card can be optimized for use with MATLAB/Simulink Real Time Toolbox. It also provided implementation of the control algorithms from the PC to the helicopter system. The user communicates with the system via Real Time Toolbox interface, all input/output signals were dimensionless and scaled into the MU (Machine Unit). The MATLAB/Simulink xPC Target Toolbox can be used to perform the experiments in real time applications.&lt;/p>
+&lt;p>This project is funded by &lt;a href="https://www.grenoble-inp.fr/en" target="_blank" rel="noopener">Grenoble INP-UGA&lt;/a> at the &lt;a href="https://www.esynov.fr/" target="_blank" rel="noopener">Esynov platform&lt;/a> under the supervision of Professor (Associate) &lt;a href="https://dvanguyen.netlify.app/coauthors/ionela_prodan/" target="_blank" rel="noopener">Ionela Prodan&lt;/a>.&lt;/p>
+&lt;p>As member of the innovation project, Mr. Nguyen started his work as a research intern in the summer of 2017, then became the team leader of this project (Sep - Dec, 2017).&lt;/p></description></item><item><title>Yann NGUYEN</title><link>https://example.com/coauthors/yann_nguyen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/coauthors/yann_nguyen/</guid><description>&lt;p>Yann Nguyen is an ENT professor at the Otolaryngology Department, in Hospital Pitié Salpêtrière (Sorbonne University, AP-HP), in Paris, France.
+His clinical activities are focused on middle ear surgery, cochlear implantation and lateral skull base surgery.
+He obtained the PhD degree on “robot based surgery for cochlear implantation” at Sorbonne University (2011).
+He keeps working on robotics in the &amp;ldquo;Hearing Institute&amp;rdquo; (Institut Pasteur/Inserm). The goal is to design and evaluate surgical solutions from lab bench to operating room for hearing loss.&lt;/p>
+&lt;p>He won the Scientific Emergence Prize in 2018 for clinical research. The prize honored his contributions in developing the first surgical robot for cochlear implantation.
+This led to the design of the RoboTol ear-surgery robot and its commercialization by the Collin Medical company in 2017.&lt;/p>
+&lt;p>He is a member of the µRoCS project.&lt;/p></description></item></channel></rss>
