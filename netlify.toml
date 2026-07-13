@@ -23,4 +23,4 @@
 
 [functions]
   node_bundler = "esbuild"
-  runtime = "nodejs18.x"
+  # runtime = "nodejs18.x"
