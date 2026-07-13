@@ -67,10 +67,14 @@ email: ''
 highlight_name: true
 ---
 
-Dang-Viet-Anh Nguyen obtained his MEng degree (2018) at [Grenoble INP-UGA](https://www.grenoble-inp.fr/) (France) with the [Eiffel Excellence scholarship](https://www.campusfrance.org/en/the-eiffel-scholarship-program) and his PhD degree (2023) at [University Bourgogne Franche-Comté](https://www.ubfc.fr/en/) with the subject: Hybrid Continuum Robot For Middle Ear Surgery: Design, Fabrication & Demonstration.
+Robotics Systems Engineer with 9+ years of experience in robotic and cyber-physical systems across academia and industry. Strong expertise in modeling, estimation, design, and control of robotic systems, with emphasis on data-driven methods and intelligent systems for real-time estimation and control of complex dynamic systems.
 
-He has over 5 years experiences of working on different professional projects (both academic and industrial) with many smart systems including: smart water treatment (2017), helicopter (2017), energy distribution network (2018), surgical robot (2018-2022), excavator weighing (2023-present). His research interests are in the modeling, design, and control of robotic systems, especially for medical and industrial applications.
+Experience spans surgical robotics, laboratory helicopter systems, energy networks, excavator payload estimation, and aerial ladder platform stabilization.
 
-He is now working for [ASCOREL](https://www.ascorel.com/en/) at the R&D Department.
+PhD in robotics focusing on a hybrid continuum robot for minimally invasive surgery.
+
+Currently working as R&D Engineer (PhD) at [ASCOREL](https://www.ascorel.com/en/).
+
+
 
 {{< icon name="download" pack="fas" >}} Download my [CV](https://dvanguyen.netlify.app/uploads/resume.pdf).
